@@ -3,8 +3,8 @@ package com.tint.designlab.ultimatetictactoe;
 /**
  * 
  * @author ANKITA BASU,
- * 		   AAKANKSHA JENA,
- * 		   SUPARNA BANERJEE,
+ *         AAKANKSHA JENA,
+ *         SUPARNA BANERJEE,
  *         SHENHA DEB,
  *         AYANTIKA SARKAR
  *
