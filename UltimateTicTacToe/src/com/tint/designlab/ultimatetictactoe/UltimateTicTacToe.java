@@ -15,8 +15,8 @@ import javax.swing.JTextArea;
 /**
  * 
  * @author ANKITA BASU,
- * 		   AAKANKSHA JENA,
- * 		   SUPARNA BANERJEE,
+ * 	   AAKANKSHA JENA,
+ *         SUPARNA BANERJEE,
  *         SHENHA DEB,
  *         AYANTIKA SARKAR
  *
