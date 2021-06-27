@@ -7,7 +7,7 @@ import com.tint.designlab.tictactoe.service.LogicServiceImpl;
 /**
  * 
  * @author ANKITA BASU,
- * 		   AAKANKSHA JENA,
+ *         AAKANKSHA JENA,
  *         SHNEHA DEB,
  *         SUPARNA BANERJEE,
  *         AYANTIKA SARKAR
